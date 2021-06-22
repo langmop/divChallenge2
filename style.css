@@ -11,6 +11,14 @@ body {
   align-content: space-between;
 }
 
+footer {
+  width: 100%;
+  margin-top: 10%;
+  font-size: x-large;
+  text-align: center;
+  color: white;
+}
+
 header {
   display: flex;
   flex-wrap: wrap;
